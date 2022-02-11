@@ -1,0 +1,60 @@
+Univeral selector
+*{
+    box-sizing: border-box;
+}
+
+Tag selector
+h1 {
+    box-sizing: border-box;
+    color:yellow
+}
+
+Class selector
+.grid{
+    color:black
+}
+
+Id selector
+#header_block{
+    color: red;
+}
+
+Text proporties
+color
+
+.bee{
+    color:chocolate;
+    font-size: 40px;
+    letter-spacing: 2px;
+    line-height: 30;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-thickness: 5px;
+
+    text-transform: uppercase;
+}
+
+.bday{
+    width: 600px;
+    height: 400px;
+    z-index: -1;
+    box-shadow: 30px 20px 40px purple;
+    border-radius: 20px; 
+    padding: 20px;
+    border: 5px solid black;
+    margin: 40 px; 40 top, 20 right, 20 bottom, 30 left;
+}
+
+.regular-div{
+    background-color: blueviolet;
+    opacity: 0.3;
+}
+
+Specify Colors
+rgba: red, green, blue, a opacity
+
+
